@@ -1,0 +1,26 @@
+ul{
+    font-size: 18px;
+}
+li{
+    font-size: 18px;
+}
+h1{
+    font-size: larger;
+    text-decoration: underline;
+}
+h2{
+    font-size: large;
+}
+h3{
+    font-size: 18px;
+    font-style: italic;
+    font-weight: normal;
+}
+h4{
+    text-align: right;
+    font-size: medium;
+    font-weight: normal;
+}
+body{
+    background-color: aliceblue;
+}

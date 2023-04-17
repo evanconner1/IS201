@@ -1,0 +1,40 @@
+
+.header{
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    background-color: whitesmoke;
+    font-size: x-large;
+    text-decoration: underline;
+}
+h2{
+    font-size: xx-large;
+}
+.mainbody{
+    background-color: red;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: large;
+    color: black;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    line-height: 30px;
+}
+ul{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    list-style-position: inside;
+}
+ol{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    list-style-position: inside;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}
+.footer{
+    text-align: center;
+}
